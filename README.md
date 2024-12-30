@@ -1,4 +1,3 @@
-![joe-shields-dLij9K4ObYY-unsplash](https://github.com/user-attachments/assets/162be3a5-0173-4997-82ed-88086b1dad8b)
 **RIFQI - Build myself and the world better**
 
 
