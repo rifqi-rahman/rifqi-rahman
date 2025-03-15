@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m @rifqi-rahman
 - 👀 I’m interested in IT and human longevity science!
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on a web development internship
+- 🌱 I’m currently learning Swift
+- 💞️ I’m currently learning at Apple Developer Academy @BINUS
 - 📫 How to reach me rifqi.efforts@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: MMA enthuciast, cat lover
