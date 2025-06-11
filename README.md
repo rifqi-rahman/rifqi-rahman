@@ -1,16 +1,52 @@
-**RIFQI - Build myself and the world better**
+# Hi there, I'm Rifqi Rahman 👋
 
+<p align="center">
+  <a href="https://github.com/rifqi-rahman">
+    <img src="https://github-readme-stats.vercel.app/api?username=rifqi-rahman&show_icons=true&theme=dracula&count_private=true" alt="Rifqi Rahman's GitHub Stats" />
+  </a>
+</p>
 
-- 👋 Hi, I’m @rifqi-rahman
-- 👀 I’m interested in IT and human longevity science!
-- 🌱 I’m currently learning Swift
-- 💞️ I’m currently learning at Apple Developer Academy @BINUS
-- 📫 How to reach me rifqi.efforts@gmail.com
+<p align="center">
+  <a href="https://github.com/rifqi-rahman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqi-rahman&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 👨🏻‍💻 About Me
+
+I'm a passionate learner dedicated to mastering #Programming, particularly **Swift**, and overcoming the challenges of "Tutorial Hell" through consistent practice. My goal is to build a better world and a better self through technology.
+
+- 🌱 I’m currently diving deep into **Swift** at the **Apple Developer Academy @BINUS**.
+- 👀 I’m fascinated by the intersection of **Information Technology** and **Human Longevity Science**.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: MMA enthuciast, cat lover
+- ⚡ Fun fact: I'm an MMA enthusiast and a proud cat lover.
 
+---
 
-<!---
-rifqi-rahman/rifqi-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  </p>
+
+---
+
+### 📫 Get In Touch
+
+- 📧 Email: **rifqi.efforts@gmail.com**
+- 💼 LinkedIn: [Your LinkedIn Profile URL] ---
+
+### 📊 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/rifqi-rahman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifqi-rahman&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rifqi-rahman&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rifqi-rahman?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
