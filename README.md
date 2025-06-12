@@ -49,8 +49,7 @@ I'm a passionate learner dedicated to mastering #Programming, particularly **Swi
 
 ### 📫 Get In Touch
 
-- 📧 Email: **rifqi.efforts@gmail.com**
-- 💼 LinkedIn: [Your LinkedIn Profile URL] ---
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-rifqi-rahman-professional/ ---
 
 ### 📊 My GitHub Activity
 
