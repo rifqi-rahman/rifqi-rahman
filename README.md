@@ -1,17 +1,4 @@
 # Hi there, I'm Rifqi Rahman 👋
-
-<p align="center">
-  <a href="https://github.com/rifqi-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=rifqi-rahman&show_icons=true&theme=dracula&count_private=true" alt="Rifqi Rahman's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rifqi-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqi-rahman&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ### 👨🏻‍💻 About Me
