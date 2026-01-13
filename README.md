@@ -5,7 +5,7 @@
 
 I'm a passionate learner dedicated to mastering #Programming, particularly **Swift**, and overcoming the challenges of "Tutorial Hell" through consistent practice. My goal is to build a better world and a better self through technology.
 
-- 🌱 I’m currently diving deep into **Swift** at the **Apple Developer Academy @BINUS**.
+- 🌱 I learned Product management, research, design, and development at the **Apple Developer Academy @BINUS**.
 - 👀 I’m fascinated by the intersection of **Information Technology** and **Human Longevity Science**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an calisthenic enthusiast and a proud cat lover.
