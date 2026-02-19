@@ -31,10 +31,6 @@ I'm a passionate learner dedicated to mastering #Programming, particularly **Swi
 
 ---
 
-### 📫 Get In Touch
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mrifqirahman ---
-
 ### 📊 My GitHub Activity
 
 <p align="center">
